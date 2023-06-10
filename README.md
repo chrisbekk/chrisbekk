@@ -8,16 +8,18 @@
 
 <!-- MAIN AREA -->
 <h2>About me</h2>
-<ul>
-  <li>Frontend Student at Noroff</li>
-</ul>
+I am a student at Noroff School of Technology and Digital Media where I study frontend development.
+I have an interest in all things regarding the development process, from planning and designing to coming up with solutions that help solve real-life problems.
+I believe in adopting technologies that make the development process more intuitive, while keeping the user experience engaging.
+
+<a href="https://volt-dev.netlify.app">To my personal portfolio page.</a>
 
 <h2>Currently working on</h2>
 
 <h2>Learning</h2>
 <ul>
   <li>ThreeJS</li>
-  <li>React</li>
+  <li>Astro</li>
   <li>Firebase</li>
   <li>Svelte</li>
 </ul>
