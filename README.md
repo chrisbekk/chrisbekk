@@ -12,9 +12,16 @@ I am a student at Noroff School of Technology and Digital Media where I study fr
 I have an interest in all things regarding the development process, from planning and designing to coming up with solutions that help solve real-life problems.
 I believe in adopting technologies that make the development process more intuitive, while keeping the user experience engaging.
 
+
+
+<!--
+<h2>Currently working on</h2>
+-->
+
+<h2>Portfolio</h2>
+On my portfolio page you can browse through my latest projects. Feel free to have a look.
 <a href="https://volt-dev.netlify.app">To my personal portfolio page.</a>
 
-<h2>Currently working on</h2>
 
 <h2>Learning</h2>
 <ul>
